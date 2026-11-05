@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-moderation-dart-mobile",
+  "capabilityKey": "liberusoftware/module-social-network-moderation",
+  "presentation": "dart-mobile",
+  "package": "module_social_network_moderation_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/social-network/nextjs/moderation.md",
+  "presentationPlan": "projects/social-network/features/moderation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
